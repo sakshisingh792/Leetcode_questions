@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
