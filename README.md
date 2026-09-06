@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1848-minimum-distance-to-the-target-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1929-concatenation-of-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
